@@ -40,7 +40,7 @@ A comprehensive dataset analyzing 54,808 employees to predict promotion eligibil
 | `KPIs_met >80%` | KPI achievement indicator (0/1) | Integer |
 | `awards_won?` | Awards received indicator (0/1) | Integer |
 
-## 🎯 Business-Level Marketing Questions
+## 🎯 Business-Level Questions
 
 ### 💼 **Talent Acquisition & Recruitment**
 1. **Which recruitment channels produce the highest-performing employees eligible for promotion?**
